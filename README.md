@@ -86,6 +86,6 @@ A lab member unfamiliar with your implementation should be able to: clone the re
 
 ## Optional Extensions
 
-If you finish early, pick one: frontier exploration, semantic mapping, visual place recognition, open-vocabulary object detection, dynamic obstacle handling, multi-robot mapping, learning-based navigation, or integration with Air Sim / Unity / Isaac Sun.
+If you finish early, pick one: frontier exploration, semantic mapping, visual place recognition, open-vocabulary object detection, dynamic obstacle handling, multi-robot mapping, learning-based navigation, or integration with Air Sim / Unity / Isaac Sim.
 
 Have fun!
