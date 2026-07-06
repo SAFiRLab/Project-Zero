@@ -23,7 +23,7 @@ So you don't waste time guessing versions or chasing ROS1 tutorials:
 
 - **ROS2 distro:** Humble, on Ubuntu 22.04 or Jazzy, on Ubuntu 24.04.
 - **Simulator:** Gazebo Harmonic, via Clearpath's own packages: [clearpath_simulator](https://github.com/clearpathrobotics/clearpath_simulator)  (brings up the robot in Gazebo) and [clearpath_nav2_demos](https://github.com/clearpathrobotics/clearpath_nav2_demos) (SLAM/Nav2 launch files and configs already tuned for our platforms). Start from these rather than building your own launch files from scratch. In the future, you'll likely use AirSim (based on the Unreal Engine) or Unity, but for now, we're going to keep it simple.
-- **Hardware:** Clearpath Jackal, 2D LiDAR, RGBD camera (yet to be integrated), onboard computer. Ask for exactly which sensors are mounted before you assume.
+- **Hardware:** Clearpath Jackal, 2D LiDAR (Velodyne VLP-16), RGBD camera (yet to be integrated: Luxonis OAK-D-S2-FF), onboard computer.
 
 ## Platform
 
